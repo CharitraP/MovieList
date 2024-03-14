@@ -2,7 +2,7 @@
 //  MovieListUITests.swift
 //  MovieListUITests
 //
-//  Created by Charitra Prakash Yalimadannanavar on 2/27/24.
+//  Created by Charitra Prakash Yalimadannanavar on 2/24/24.
 //
 
 import XCTest
